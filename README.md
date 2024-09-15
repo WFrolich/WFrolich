@@ -3,9 +3,9 @@ Welcome to my README page.
 
 ## Here's a little ABOUTME:
 - 👨‍🎓 I graduated with a BA in Economics, minoring in History, from 🟣😺Northwestern University😺🟣.
-- 📚 I'm currently working towards a Master's in Public Administration (MPA) from 🔵🦁Columbia University's🦁🔵 School of Internation and Public Affairs (SIPA).
+- 📚 I'm currently working towards a Master's in Public Administration (MPA) from 🔵🦁Columbia University's🦁🔵 School of International and Public Affairs (SIPA).
 - 🧠 At SIPA I'm studying 🏙Urban and Social Policy.
-- 💼 I recently interned as a government consultant helping modernize operations at one of NYC's agencies. I previously worked at a govtech company doing similar work across the country.
+- 💼 I have worked as a consultant helping modernize operations in NYC's government and at a govtech company doing similar work across the country.
 - 💡 I'm interested in all things 🚇transit, 🏡housing, 🙋‍♂️community engagement, 🌎sustainability and 🏛government related.
 - 🖥 I'm currently learning python to help better understand and address the modern policy challenges facing American cities.
 
